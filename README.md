@@ -1,4 +1,4 @@
-Hi there 👋
+你好/Hi there 👋
 
 <!---
 0clock/0clock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
